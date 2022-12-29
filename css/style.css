@@ -23,7 +23,9 @@ a:focus {
 .btn:focus {
     box-shadow: none;
 }
-
+.yellow-text{
+    color: yellow;
+}
 
 /**********************************/
 /****** Layout with Sidebar *******/
