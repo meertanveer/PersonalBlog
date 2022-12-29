@@ -1076,8 +1076,8 @@ a:focus {
 .footer {
     position: relative;
     width: 100%;
-    padding: 30px 30px 0 30px;
-    background: #F6D155;
+    padding: 0 30px 0 30px;
+    background: #ec9;
 }
 
 .footer .col-md-6:last-child {
